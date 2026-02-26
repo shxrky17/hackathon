@@ -8,6 +8,7 @@ public class InterviewerBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(InterviewerBackendApplication.class, args);
+		System.out.println("\n backend is working \n");
 	}
 
 }
